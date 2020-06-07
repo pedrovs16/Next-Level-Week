@@ -37,8 +37,8 @@
 <div  display="grid" grid-template-columns=" 1fr 1fr 1fr" gap= "10px" align-items = "center">
 <img alt="Logo" title="#logo"  src="/public/assets/page-home1.png">
 <img alt="Logo" title="#logo"  src="/public/assets/cadastro3.png">
-<img alt="Logo" title="#logo"  src="/public/assets/cadastro4.png">
 <img alt="Logo" title="#logo"  src="/public/assets/search-results2.png">
+<img alt="Logo" title="#logo"  src="/public/assets/cadastro4.png">
 </div>
 
 
