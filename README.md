@@ -30,10 +30,12 @@ O projeto *Ecoleta* consiste na produção de uma aplicação web, a qual serve 
 <img alt="Logo" title="#logo"  src="/public/assets/cadastro.png">
 <img alt="Logo" title="#logo"  src="/public/assets/cadastro2.png">
 <img alt="Logo" title="#logo"  src="/public/assets/search-results.png">
+<div display=grid  grid-template-columns= 1fr,1fr >
 <img alt="Logo" title="#logo"  src="/public/assets/page-home1.png">
 <img alt="Logo" title="#logo"  src="/public/assets/cadastro3.png">
 <img alt="Logo" title="#logo"  src="/public/assets/cadastro4.png">
 <img alt="Logo" title="#logo"  src="/public/assets/search-results2.png">
+</div>
 
 
 
