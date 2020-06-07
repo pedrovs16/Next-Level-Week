@@ -26,7 +26,15 @@ O projeto *Ecoleta* consiste na produção de uma aplicação web, a qual serve 
 -Integração do Google Maps para facilitar a busca do ponto de coleta
 
 ## ✔️ Resultado
-<img alt="Logo" title="#logo"  src="/public/assets/page-home.png"><img alt="Logo" title="#logo"  src="/public/assets/page-home2.png">
+<img alt="Logo" title="#logo"  src="/public/assets/page-home.png">
+<img alt="Logo" title="#logo"  src="/public/assets/cadastro.png">
+<img alt="Logo" title="#logo"  src="/public/assets/cadastro2.png">
+<img alt="Logo" title="#logo"  src="/public/assets/search-results.png">
+<img alt="Logo" title="#logo"  src="/public/assets/page-home1.png">
+<img alt="Logo" title="#logo"  src="/public/assets/cadastro3.png">
+<img alt="Logo" title="#logo"  src="/public/assets/cadastro4.png">
+<img alt="Logo" title="#logo"  src="/public/assets/search-results2.png">
+
 
 
 <hr>
