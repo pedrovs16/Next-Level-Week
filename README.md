@@ -8,7 +8,7 @@
 </h1> 
 
 ##  Sobre o projeto
-O projeto *Ecoleta* consiste na produção de uma aplicação web, a qual serve como ponte da população ao pontos de coleta de lixo reciclável pela país, 
+ O projeto *Ecoleta* consiste na produção de uma aplicação web, a qual serve como ponte dos moradores ao pontos de coleta de lixo reciclável pelo país.
 
 ##  Tecnologias utilizadas
 - HTML
@@ -25,12 +25,16 @@ O projeto *Ecoleta* consiste na produção de uma aplicação web, a qual serve 
 ##  Melhoria a ser adicionada
 -Integração do Google Maps para facilitar a busca do ponto de coleta
 
-## ✔️ Resultado
+## Computador
+
 <img alt="Logo" title="#logo"  src="/public/assets/page-home.png">
 <img alt="Logo" title="#logo"  src="/public/assets/cadastro.png">
 <img alt="Logo" title="#logo"  src="/public/assets/cadastro2.png">
 <img alt="Logo" title="#logo"  src="/public/assets/search-results.png">
-<div display=grid  grid-template-columns= 1fr,1fr >
+
+## Celular
+
+<div  display="grid" grid-template-columns=" 1fr 1fr 1fr" gap= "10px" align-items = "center">
 <img alt="Logo" title="#logo"  src="/public/assets/page-home1.png">
 <img alt="Logo" title="#logo"  src="/public/assets/cadastro3.png">
 <img alt="Logo" title="#logo"  src="/public/assets/cadastro4.png">
