@@ -20,11 +20,13 @@ O projeto *Ecoleta* consiste na produção de uma aplicação web, a qual serve 
 ##  Melhorias extras
 - Adicionado no cadastro a opção de contato e e-mail 
 - Interface para aparelhos móveis.
+- Ícone do Ecoleta na aba de navegação
 
 ##  Melhoria a ser adicionada
 -Integração do Google Maps para facilitar a busca do ponto de coleta
-## ✔️ Resultado
 
+## ✔️ Resultado
+<img alt="Logo" title="#logo"  src="/public/assets/page-home.png"><img alt="Logo" title="#logo"  src="/public/assets/page-home2.png">
 
 
 <hr>
