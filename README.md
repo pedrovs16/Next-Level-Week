@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 <h3 align="center">
     <img alt="Logo" title="#logo" width="200px" src="/public/assets/nlw.png">
+=======
+
+>>>>>>> 069110d884507a9a9ce310c2a1e18b0974c64bd9
 
 # Next-Level-Week
   <br><b>Semana Next Level Week, by Rocketseat</b></h3><p align="center"><a href="https://rocketseat.com.br"><img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1"></a>  
