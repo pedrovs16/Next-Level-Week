@@ -1,0 +1,151 @@
+@media (max-width: 900px) {
+    #page-home{
+        background-position-x: 70vw;
+    }
+    #page-home .content{
+    align-items: center;
+    text-align: center;
+    } 
+    #page-home header a {
+        padding-left: 30px;
+    }
+    #page-home main{
+        align-items: center;
+    }
+    #page-search-results .cards{
+        grid-template-columns: 1fr;
+    }
+    #page-search-results .cards img{
+        height: 250px;
+    }
+} 
+
+/*CELULAR*/
+@media (max-width: 645px ){
+    /*PAGINA PRINCIPAL*/
+        #page-home #header a{
+            display: flex;
+            color: var(--title-color);
+            font-weight: 700;
+            font-size: 12px;
+        } 
+        #page-home #header a:checked{
+            color: #2fb86e;
+        }
+        #page-home #header a span{
+            background-image: url();
+            display: flex ;
+            width: 15px;
+            height: 15px;
+            margin-right: 8px;
+            
+        }
+        #page-home .content main h1{
+            font-size: 30px;
+        }
+        #page-home .content main p{
+            font-size: 16px;
+            line-height: 38px;
+            margin-top: 24px;
+        }
+        #page-home .content main a{
+            width: 100%;
+            max-width: 360px;
+            background: var(--primary-color);
+            height: 72px;
+            border-radius: 8px;
+            display: flex;
+        
+            align-items: center;
+            margin-top: 40px;
+            transition: 400ms;
+        }
+        #page-home .content main a{
+            width: 100%;
+            max-width: 260px;
+            background: var(--primary-color);
+            height: 50px;
+            border-radius: 8px;
+            display: flex;
+        
+            align-items: center;
+            margin-top: 40px;
+            transition: 400ms;
+        }
+        #page-home .content main a span{
+            width: 60px;
+            height: 50px;
+        }
+    /*PAGINA RESULTADO DE PESQUISA*/
+        #page-search-results header a {
+            /*SETA + VOLTAR HOME*/
+            font-size: 18px;
+        }
+        #body-page-search::after{
+            background: none;
+        }
+    /*PAGINA CADASTRO*/
+        #page-cadastro-home {
+            /*LAYOUT PAG*/
+            width: 90%;
+        }
+        #page-cadastro-home form {
+            padding: 10px;
+        }
+        #page-cadastro-home form h1{
+            /*escrita CADASTRO DO ...*/
+            font-size: 24px;
+        }
+        #page-cadastro-home form legend h2{
+            font-size: 20px;
+        }
+        #page-cadastro-home form .field{
+            /*ONDE COLOCA INF*/
+            margin-bottom: 14px;
+        }
+        #page-cadastro-home form .field-group{
+            display: grid ;
+            grid-template-columns: 1fr
+        }
+        #page-cadastro-home form .field-group .field + .field{
+            margin-left: 0px;
+        }
+        #page-cadastro-home .items-grid {
+            grid-template-columns: 1fr  1fr;
+        }
+}
+/*NOTE PEQUENO*/
+@media (min-width: 1700px){
+    #page-home{
+        background-position-x: 45vw;
+    }
+}
+@media (max-height: 820px){
+    #page-home{
+        background-position-y: 110px;
+    }
+}
+
+
+
+
+
+
+/*@media (max-width: 900px) {
+    #page-home{
+        background-position-x: 70vw;
+    }
+    #page-home .content{
+    align-items: center;
+    text-align: center;
+    } 
+    #page-home header a {
+        position: absolute;
+        bottom: 10px;
+        left: 50%;
+        transform: translate(-50%);
+    }
+    #page-home main{
+        align-items: center;
+    }
+} */
